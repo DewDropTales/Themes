@@ -4,18 +4,24 @@ Welcome to my collection of themes for various applications and operating system
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation](#installation)
-- [Themes Included](#themes-included)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
 This repository is a curated collection of my custom themes designed for multiple applications and operating systems. Whether you're looking to style your desktop environment, text editor, terminal, or other applications, you'll find various themes here to suit your taste.
 
-## Installation
-Each theme has its own installation instructions, which can be found in the respective theme's directory. Generally, you can follow these steps to apply a theme:
+## Contributing
+I welcome contributions to this repository! If you have created a theme that you would like to share, please follow these steps:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/theme-collection.git
+1. Fork the repository.
+2. Create a new branch for your theme: `git checkout -b my-new-theme`.
+3. Add your theme files to a new directory.
+4. Include a README file with installation instructions.
+5. Commit your changes and push to your branch: `git push origin my-new-theme`.
+6. Open a pull request with a description of your theme.
+
+## Contact
+If you have any questions, suggestions, or feedback, feel free to contact me:
+
+- GitHub: [DewDropTales](https://github.com/DewDropTales)
+- Discord: dewdroptales
