@@ -1,4 +1,4 @@
-#My Theme Collection
+##My Theme Collection
 
 Welcome to my collection of themes for various applications and operating systems! This repository contains theme files that I have created to enhance the visual experience of different environments.
 Table of Contents
